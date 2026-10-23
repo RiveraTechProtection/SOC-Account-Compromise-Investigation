@@ -145,3 +145,7 @@ The evidence supports suspected password spraying followed by privileged account
 Possible data exfiltration was identified as a concern requiring additional evidence.
 
 **Prepared by Marcos Rivera | Rivera Tech Protection**
+
+## Full Investigation Report
+
+📄 [View the Complete Six-Page SOC Investigation](Suspicious%20Account%20Compromise%20Investigation.pdf)
